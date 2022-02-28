@@ -1,0 +1,20 @@
+id: P61EC9907
+initial_creation_type: input
+source_metadata:
+  title: Lamdré Series
+  language: en
+  description: 'Texts related to the theory and practice of Lamdré (lam ''bras), or
+    Path with Its Fruit:'
+  volume:
+    48efa3f6dfc1479c82d05baab0b1f4bf:
+      title: 'The Jewelled Rosary: An Aspiration Toward Longed-for Aims'
+      parent: Aspiration Prayers
+    0abe8c56a9b14bf78f01e45d6226abca:
+      title: Supplement to the Lineage Prayer for the Lamdré Instructions Composed
+        by Tsarchen
+      parent: Lineage Prayers
+    223f462cd0294c59aa5e918372b0a913:
+      title: Drawing Out the Quintessence of the View
+      parent: Songs
+created_at: '2022-03-01T04:06:49.756703'
+last_modified_at: '2022-03-01T04:06:49.756709'
